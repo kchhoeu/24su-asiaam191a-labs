@@ -7,7 +7,7 @@ const map = new maplibregl.Map({
 
     center: [-118.444, 34.0709], // Starting position [lng, lat]
 
-    zoom: 1 // Starting zoom level
+    zoom: 11.5 // Starting zoom level
 
 });
 // Add a marker to the map
